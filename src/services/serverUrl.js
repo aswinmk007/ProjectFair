@@ -1,0 +1,1 @@
+export const SERVER_URL = "https://projectfairserver-ebc8.onrender.com"
